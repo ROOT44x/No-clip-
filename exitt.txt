@@ -1,3 +1,0 @@
-script.Parent.MouseButton1Click:Connect(function()
-game.Players.LocalPlayer.PlayerGui.ScreenGui.Frame.Visible = false
-end)
